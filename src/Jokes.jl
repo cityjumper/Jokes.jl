@@ -15,7 +15,7 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "Why do most programmers use a dark theme while coding? Because light attracts bugs."
 ];
 export joke
-export why
+
 """
     joke()
 
@@ -26,6 +26,7 @@ Get a funny joke.
 julia> joke()
 ```
 """
-joke() = println(jokes_en[rand(1:length(jokes_en))])
+joke() = jokes_en[rand(1:length(jokes_en))]
+
 
 end
