@@ -2,7 +2,7 @@
 
 using Documenter, Jokes
 
-makedocs(sitename="Jokes Documentation")
+makedocs()
 
 deploydocs(
     repo = "github.com/cityjumper/Jokes.jl.git",
