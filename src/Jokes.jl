@@ -26,7 +26,7 @@ Get a funny joke.
 julia> joke()
 ```
 """
-joke() = jokes_en[rand(1:length(jokes_en))]
+joke() = rand(jokes_en)
 
 
 end
