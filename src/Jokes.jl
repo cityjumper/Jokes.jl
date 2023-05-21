@@ -13,6 +13,10 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "Where does the USA keep its backups? USB."
 "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."
 "Why do most programmers use a dark theme while coding? Because light attracts bugs."
+"Why did the programmer go broke? Because he used up all his cache."
+"What's a programmer's favorite spot? The address bar."
+"What is a programmer's favorite hangout place? Foo Bar."
+"Why was the computer cold? It left its Windows open."
 ];
 export joke
 
