@@ -17,6 +17,8 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "What's a programmer's favorite spot? The address bar."
 "What is a programmer's favorite hangout place? Foo Bar."
 "Why was the computer cold? It left its Windows open."
+"How many flies does take to screw in a lightbulb? Two, but don't ask me how they get in."
+"What's a pirate's favorite programming language? R. But he also likes the C."
 ];
 export joke
 
