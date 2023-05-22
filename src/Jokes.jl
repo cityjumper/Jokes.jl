@@ -19,6 +19,17 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "Why was the computer cold? It left its Windows open."
 "How many flies does take to screw in a lightbulb? Two, but don't ask me how they get in."
 "What's a pirate's favorite programming language? R. But he also likes the C."
+"A physician, a civil engineer, and a computer scientist were arguing about\
+what was the oldest profession in the world. The physician remarked,\
+“Well, in the Bible, it says that God created Eve from a rib taken out of\
+Adam. This clearly required surgery, and so I can rightly claim that mine is\
+the oldest profession in the world.” The civil engineer interrupted, and\
+said, “But even earlier in the book of Genesis, it states that God created\
+the order of the heavens and the earth from out of the chaos. This was the\
+first and certainly the most spectacular application of civil engineering.\
+Therefore, fair doctor, you are wrong: mine is the oldest profession in the\
+world.” The computer scientist leaned back in her chair, smiled, and then\
+said confidently, “Ah, but who do you think created the chaos?”"
 ];
 export joke
 
