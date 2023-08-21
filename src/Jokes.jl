@@ -19,6 +19,10 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "Why was the computer cold? It left its Windows open."
 "What's a pirate's favorite programming language? R. But he also likes the C."
 "Finally a good explanation of the Julia name!Whereas it is universally acknowledged that Julia stands for Just Using Loops Is Amazing"
+"To err is human - and to blame it on a computer is even more so."
+"My software never has bugs. It just develops random features."
+"The more I C, the less I see."
+""
 ];
 export joke
 
