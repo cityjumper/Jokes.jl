@@ -22,7 +22,6 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "To err is human - and to blame it on a computer is even more so."
 "My software never has bugs. It just develops random features."
 "The more I C, the less I see."
-""
 ];
 export joke
 

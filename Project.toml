@@ -1,7 +1,7 @@
 name = "Jokes"
 uuid = "51dfaa90-333b-4553-a411-bc8026e4957c"
 authors = ["Gareth Thomas <gareth.bj.thomas@gmail.com>"]
-version = "0.0.5"
+version = "0.0.6"
 
 [compat]
 julia = "1"
