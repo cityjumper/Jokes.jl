@@ -22,6 +22,9 @@ global jokes_en = ["There are 10 types of people in the world: those who underst
 "To err is human - and to blame it on a computer is even more so."
 "My software never has bugs. It just develops random features."
 "The more I C, the less I see."
+"Why do functional programmers never break up? Because they always find a way to map and filter out their differences."
+"Why did the software engineer stay cool under pressure? Because he had excellent exception handling."
+"Why do Julia programmers never get coffee breaks? Because by the time they pour their coffee, their code's already done running!"
 ];
 export joke
 
